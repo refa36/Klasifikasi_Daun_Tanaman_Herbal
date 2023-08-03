@@ -6,4 +6,4 @@
 
 :woman_technologist: The research focuses on several classes of herbal leaf images, categorized into six classes. The feature extraction used in this study includes color, shape, and texture from the herbal leaf images. The image data is divided into training and testing datasets, and the obtained result shows a training accuracy of 84%.
 
-Link for the Dataset :arrow_right: https://drive.google.com/drive/folders/1N_d-rY_hjPe1l86hwaaA9w23Km5SZdZ1?usp=sharing :arrow_left:
+
